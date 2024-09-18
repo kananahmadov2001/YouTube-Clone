@@ -9,4 +9,4 @@ This is a simple YouTube clone project that I built while learning the basics of
 * CSS: Styling of the layout, colors, fonts, and responsive behavior.
 
 ## Screenshot
-Here is the screenshot for the page: []
+Here is the screenshot for the page: youtube-clone-screenshot.png

@@ -8,5 +8,5 @@ This is a simple YouTube clone project that I built while learning the basics of
 * HTML: Structure of the webpage.
 * CSS: Styling of the layout, colors, fonts, and responsive behavior.
 
-## Link
-Here is the link doe the page: []
+## Screenshot
+Here is the screenshot for the page: []

@@ -2,13 +2,15 @@
     <h1 id="Header">YouTube Clone</h1>
 </div>
 
-This is a simple YouTube clone project that I built while learning the basics of HTML and CSS. The project replicates the layout and design of YouTube's homepage, focusing on core structural elements like a navigation bar, video thumbnails, and a footer.
+## Overview
+The YouTube Clone is a simplified replication of YouTube's homepage, designed to practice and reinforce the fundamentals of HTML and CSS. The project focuses on the layout and design of key elements such as the navigation bar, video thumbnails, and footer.
 
 ## Technologies Used
-* HTML: Structure of the webpage.
-* CSS: Styling of the layout, colors, fonts, and responsive behavior.
+- **HTML**: Provides the structural foundation of the webpage.
+- **CSS**: Handles styling, layout, colors, fonts, and responsive behavior.
 
 ## Screenshot
-<p align="center" width="100%">
-    <img width="100%" src="https://github.com/user-attachments/assets/8c7eccfa-7af9-4e8c-802d-4bcd898d395d"> 
-</p>
+<div align="center">
+    <img src="youtube-clone-screenshot.png" alt="screenshot" width="400px" height="300px">
+</div>
+

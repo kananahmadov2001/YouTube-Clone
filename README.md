@@ -11,6 +11,6 @@ The YouTube Clone is a simplified replication of YouTube's homepage, designed to
 
 ## Screenshot
 <div align="center">
-    <img src="youtube-clone-screenshot.png" alt="screenshot" width="400px" height="300px">
+    <img src="youtube-clone-screenshot.png" alt="screenshot" width="700px" height="700px">
 </div>
 
